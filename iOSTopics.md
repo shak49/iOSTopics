@@ -16,7 +16,7 @@
   - VIPER
   
 - iOS Concepts
-  - Adaptive UI
+  - Auto Layout
   - Dark Mode
   - Lifecycle
   - Local/Push Notification
