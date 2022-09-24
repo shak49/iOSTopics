@@ -1,27 +1,26 @@
 # iOSTopics
 
 
-- Programming Concept
+- Programming Concepts
   - OOP
   - POP
   - FP
   
-- Architecture
+- Architectures
   - Clean Architecture
   - Redux
   - SOLID
-  
-- Design Patterns
   - MVC
   - MVVM
   - MVP
   - VIPER
   
-- iOS Essentials
+- iOS Concepts
   - Adaptive UI
   - Dark Mode
   - Lifecycle
   - Local/Push Notification
+  - App States
   
 - Swift
   - Reference vs Value types
@@ -29,6 +28,7 @@
   - Memory management
   - Threading
   - Lazy property
+  - Access Controllers
 
 - SwiftUI
   - View Lifecycle
@@ -45,7 +45,7 @@
   - Combine
   - RxSwift
   
-- Communication Patterns
+- Design Patterns
   - Singelton
   - Dependency Injection
   
