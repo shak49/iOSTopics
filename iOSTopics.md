@@ -30,14 +30,6 @@
   - Lazy property
   - Access Controllers
 
-- SwiftUI
-  - View Lifecycle
-  - @ObservedObject
-  - @Environment
-  
-- UIKit
-  - View Lifecycle
-
 - Unit/UI Testing
   - Mock, Stub, Spy, Dummy
 
@@ -50,6 +42,13 @@
   - Dependency Injection
   
 - Frameworks
+  - SwiftUI
+    - View Lifecycle
+    - Property Wrappers
+  
+  - UIKit
+    - View Lifecycle
+  
   - CoreDate
   - Realm
   - Firebase Messaging
