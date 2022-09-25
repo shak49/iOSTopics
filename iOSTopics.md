@@ -52,3 +52,11 @@
   - CoreDate
   - Realm
   - Firebase Messaging
+  - Firebase Emulator
+  - MapKit
+  - CoreLocation
+  - LocalAuthentication
+
+
+
+
