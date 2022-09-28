@@ -50,12 +50,15 @@
     - View Lifecycle
   
   - CoreDate
+  - HealthKit
   - Realm
   - Firebase Messaging
   - Firebase Emulator
+  - Alamofire
   - MapKit
   - CoreLocation
   - LocalAuthentication
+  
 
 
 
